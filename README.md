@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Cahanx</h1>
+<h1 align="center">Hi 👋, I'm Oscar Chanax</h1>
 <h3 align="center">A passionate full stack developer from Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lex-art&label=Profile%20views&color=0e75b6&style=flat" alt="lex-art" /> </p>
@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lexart8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lexart8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscar-chanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-chanax" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/192853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="192853" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-chanax-82b5691b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-chanax-82b5691b9/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/192853/oscar-chanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="192853/oscar-chanax" height="30" width="40" /></a>
 <a href="https://fb.com/alexch1961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexch1961" height="30" width="40" /></a>
 <a href="https://instagram.com/this.al3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this.al3x" height="30" width="40" /></a>
 </p>
